@@ -1,5 +1,25 @@
 # StatSyncDuel
 Competitive statistics integration platform for video games
+# StatSync Duel
+
+StatSync Duel is a P2P wagering platform for popular Web2 games, utilizing API integrations and zero-knowledge proofs.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- MongoDB
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/stat-sync-duel.git
+   cd stat-sync-duel
+
+
+
 ## Description
 This project implements integrations for Web2 games using APIs to obtain game statistics and a data verification mechanism based on zero-knowledge proofs.
 ## Solution Proposal: StatSync Duel — A Competitive Gaming Stats Integration Platform
